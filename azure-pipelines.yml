@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ykpool1
+pool: Ecommercepython
 
 steps:
 - script: echo Hello, world!
